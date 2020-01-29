@@ -11,9 +11,9 @@
   "profile": {
     "name": "typicode"
   },
-  "users": {
+  "users": [
     {"username":"ramsoni4u","name":"Ram Soni"},
     {"username":"sandeep4u","name":"Sandeep Samal"}
-  }
+  ]
   
 }
