@@ -12,8 +12,8 @@
     "name": "typicode"
   },
   "users": [
-    {"username":"ramsoni4u","name":"Ram Soni"},
-    {"username":"sandeep4u","name":"Sandeep Samal"}
+    {"username":"ramsoni4u","name":"Ram Soni","email":"ram@gmail.com"},
+    {"username":"sandeep4u","name":"Sandeep Samal","email":"sandeep@gmail.com"}
   ]
   
 }
