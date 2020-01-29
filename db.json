@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "users": [
-    {"id":1,"username":"ramsoni4u","name":"Ram Soni","email":"ram@gmail.com"},
+    {"id":ramsoni4u,"username":"ramsoni4u","name":"Ram Soni","email":"ram@gmail.com"},
     {"id":2,"username":"sandeep4u","name":"Sandeep Samal","email":"sandeep@gmail.com"}
   ]
   
