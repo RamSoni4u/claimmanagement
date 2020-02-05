@@ -18,6 +18,15 @@
   "login": {
     "id":1,
     "result":"success"
-  }
-  
+  },
+  "notifications":[
+    {"id":1,"notification":"Your account is activated"},
+    {"id":2,"notification":"Pick up open tasks"},
+    {"id":3,"notification":"Sandeep sent you a message"}  
+  ],
+  "messages":[
+    {"id":1,"message":"Hi this is to inform you have received new task.","from":"sandeep","datetime":"01:00"},
+    {"id":2,"message":"Hi please share your pending task list.","from":"ClaimTeam","datetime":"12:00"},
+    {"id":3,"message":"Your account is going to deactive soon","from":"Admin","datetime":"04:20"}
+  ]
 }
