@@ -12,11 +12,6 @@
     {"id":2,"notification":"Pick up open tasks"},
     {"id":3,"notification":"Sandeep sent you a message"}  
   ],
-  "messages":[
-    {"id":1,"message":"Hi this is to inform you have received new task.","from":"sandeep","datetime":"01:00"},
-    {"id":2,"message":"Hi please share your pending task list.","from":"ClaimTeam","datetime":"12:00"},
-    {"id":3,"message":"Your account is going to deactive soon","from":"Admin","datetime":"04:20"}
-  ],
   "opentasks":[
     {"id":1,"customername":"Jeanette Fletcher","claimno":"12345678","policyno":"98765432","duedate":"31-01-2020","flag":"red"},
     {"id":2,"customername":"Shawn Todd","claimno":"12345987","policyno":"98765000","duedate":"31-01-2020","flag":"green"},
