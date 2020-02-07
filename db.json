@@ -22,5 +22,9 @@
     {"id":2,"customername":"Shawn Todd","claimno":"12345987","policyno":"98765000","duedate":"31-01-2020","flag":"green"},
     {"id":3,"customername":"John Fletcher","claimno":"12343458","policyno":"9898732","duedate":"31-01-2020","flag":"green"},
     {"id":4,"customername":"Jaden Taylor","claimno":"12341228","policyno":"98764322","duedate":"31-01-2020","flag":"orange"}
+  ],
+  "closedtasks":[
+    {"id":1,"customername":"Jeanette Fletcher","claimno":"12345678","policyno":"98765432","duedate":"31-01-2020","flag":"grey"},
+    {"id":2,"customername":"Shawn Todd","claimno":"12345987","policyno":"98765000","duedate":"31-01-2020","flag":"grey"}
   ]
 }
